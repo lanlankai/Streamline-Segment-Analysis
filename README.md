@@ -1,5 +1,6 @@
 # Streamline Segment Analysis
-A fortran code to realize the streamline segment analysis. Please cite the following papers if you use these codes in your research.
+A fortran code to realize the streamline segment analysis. Please cite the following papers if you use these codes in your research. This is a two-dimensional version. For three-dimensional version, please contact L.P. Wang and CC your email to Y.X. Huang
+lipo.wang@sjtu.edu.cn, yongxianghuang@gmail.com
 
 
 
